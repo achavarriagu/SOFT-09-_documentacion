@@ -4,6 +4,7 @@ public class HolaMundo {
         System.out.println("¡Hola, mundo desde Java!");
         saludar("nombre");
         sumar(5, 3);
+        System.out.println("  :)  ");
     }
 
     public static void saludar(String nombre) {
